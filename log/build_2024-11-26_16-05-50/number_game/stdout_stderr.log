@@ -1,0 +1,30 @@
+running egg_info
+writing ../../build/number_game/number_game.egg-info/PKG-INFO
+writing dependency_links to ../../build/number_game/number_game.egg-info/dependency_links.txt
+writing entry points to ../../build/number_game/number_game.egg-info/entry_points.txt
+writing requirements to ../../build/number_game/number_game.egg-info/requires.txt
+writing top-level names to ../../build/number_game/number_game.egg-info/top_level.txt
+reading manifest file '../../build/number_game/number_game.egg-info/SOURCES.txt'
+writing manifest file '../../build/number_game/number_game.egg-info/SOURCES.txt'
+running build
+running build_py
+copying number_game/random_number_publisher.py -> /home/kim/ros2_ws/build/number_game/build/lib/number_game
+copying number_game/answer_checker.py -> /home/kim/ros2_ws/build/number_game/build/lib/number_game
+copying number_game/number_guessing_agent.py -> /home/kim/ros2_ws/build/number_game/build/lib/number_game
+running install
+running install_lib
+copying /home/kim/ros2_ws/build/number_game/build/lib/number_game/random_number_publisher.py -> /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game
+copying /home/kim/ros2_ws/build/number_game/build/lib/number_game/answer_checker.py -> /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game
+copying /home/kim/ros2_ws/build/number_game/build/lib/number_game/number_guessing_agent.py -> /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game
+byte-compiling /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game/random_number_publisher.py to random_number_publisher.cpython-310.pyc
+byte-compiling /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game/answer_checker.py to answer_checker.cpython-310.pyc
+byte-compiling /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game/number_guessing_agent.py to number_guessing_agent.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game-0.1.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/number_game/number_game.egg-info to /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game-0.1.0-py3.10.egg-info
+running install_scripts
+Installing answer_checker script to /home/kim/ros2_ws/install/number_game/lib/number_game
+Installing number_guessing_agent script to /home/kim/ros2_ws/install/number_game/lib/number_game
+Installing random_number_publisher script to /home/kim/ros2_ws/install/number_game/lib/number_game
+writing list of installed files to '/home/kim/ros2_ws/build/number_game/install.log'

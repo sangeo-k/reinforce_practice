@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+../../build/updown_game/updown_game.egg-info/PKG-INFO
+../../build/updown_game/updown_game.egg-info/SOURCES.txt
+../../build/updown_game/updown_game.egg-info/dependency_links.txt
+../../build/updown_game/updown_game.egg-info/entry_points.txt
+../../build/updown_game/updown_game.egg-info/requires.txt
+../../build/updown_game/updown_game.egg-info/top_level.txt
+../../build/updown_game/updown_game.egg-info/zip-safe
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+updown_game/__init__.py
+updown_game/agent.py
+updown_game/number_comparator.py
+updown_game/number_provider.py

@@ -1,0 +1,5 @@
+[console_scripts]
+answer_checker = number_game.answer_checker:main
+number_guessing_agent = number_game.number_guessing_agent:main
+random_number_publisher = number_game.random_number_publisher:main
+

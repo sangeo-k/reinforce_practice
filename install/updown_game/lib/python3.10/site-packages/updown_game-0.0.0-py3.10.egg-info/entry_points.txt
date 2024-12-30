@@ -1,0 +1,5 @@
+[console_scripts]
+agent = updown_game.agent:main
+number_comparator = updown_game.number_comparator:main
+number_provider = updown_game.number_provider:main
+

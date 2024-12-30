@@ -1,0 +1,25 @@
+[0.527s] Invoking command in '/home/kim/ros2_ws/src/updown_game': PYTHONPATH=/home/kim/ros2_ws/build/updown_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/updown_game build --build-base /home/kim/ros2_ws/build/updown_game/build install --record /home/kim/ros2_ws/build/updown_game/install.log --single-version-externally-managed
+[0.649s] running egg_info
+[0.649s] writing ../../build/updown_game/updown_game.egg-info/PKG-INFO
+[0.649s] writing dependency_links to ../../build/updown_game/updown_game.egg-info/dependency_links.txt
+[0.649s] writing entry points to ../../build/updown_game/updown_game.egg-info/entry_points.txt
+[0.650s] writing requirements to ../../build/updown_game/updown_game.egg-info/requires.txt
+[0.650s] writing top-level names to ../../build/updown_game/updown_game.egg-info/top_level.txt
+[0.650s] reading manifest file '../../build/updown_game/updown_game.egg-info/SOURCES.txt'
+[0.651s] writing manifest file '../../build/updown_game/updown_game.egg-info/SOURCES.txt'
+[0.651s] running build
+[0.651s] running build_py
+[0.651s] copying updown_game/number_comparator.py -> /home/kim/ros2_ws/build/updown_game/build/lib/updown_game
+[0.651s] running install
+[0.651s] running install_lib
+[0.652s] copying /home/kim/ros2_ws/build/updown_game/build/lib/updown_game/number_comparator.py -> /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game
+[0.652s] byte-compiling /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game/number_comparator.py to number_comparator.cpython-310.pyc
+[0.652s] running install_egg_info
+[0.654s] removing '/home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game-0.0.0-py3.10.egg-info' (and everything under it)
+[0.654s] Copying ../../build/updown_game/updown_game.egg-info to /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game-0.0.0-py3.10.egg-info
+[0.654s] running install_scripts
+[0.666s] Installing agent script to /home/kim/ros2_ws/install/updown_game/lib/updown_game
+[0.666s] Installing number_comparator script to /home/kim/ros2_ws/install/updown_game/lib/updown_game
+[0.666s] Installing number_provider script to /home/kim/ros2_ws/install/updown_game/lib/updown_game
+[0.666s] writing list of installed files to '/home/kim/ros2_ws/build/updown_game/install.log'
+[0.681s] Invoked command in '/home/kim/ros2_ws/src/updown_game' returned '0': PYTHONPATH=/home/kim/ros2_ws/build/updown_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/updown_game build --build-base /home/kim/ros2_ws/build/updown_game/build install --record /home/kim/ros2_ws/build/updown_game/install.log --single-version-externally-managed

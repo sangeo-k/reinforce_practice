@@ -1,0 +1,41 @@
+[0.461s] Invoking command in '/home/kim/ros2_ws/src/number_game': PYTHONPATH=/home/kim/ros2_ws/build/number_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/number_game build --build-base /home/kim/ros2_ws/build/number_game/build install --record /home/kim/ros2_ws/build/number_game/install.log --single-version-externally-managed install_data
+[0.611s] running egg_info
+[0.611s] creating ../../build/number_game/number_game.egg-info
+[0.611s] writing ../../build/number_game/number_game.egg-info/PKG-INFO
+[0.611s] writing dependency_links to ../../build/number_game/number_game.egg-info/dependency_links.txt
+[0.612s] writing entry points to ../../build/number_game/number_game.egg-info/entry_points.txt
+[0.612s] writing requirements to ../../build/number_game/number_game.egg-info/requires.txt
+[0.612s] writing top-level names to ../../build/number_game/number_game.egg-info/top_level.txt
+[0.612s] writing manifest file '../../build/number_game/number_game.egg-info/SOURCES.txt'
+[0.613s] reading manifest file '../../build/number_game/number_game.egg-info/SOURCES.txt'
+[0.613s] writing manifest file '../../build/number_game/number_game.egg-info/SOURCES.txt'
+[0.613s] running build
+[0.613s] running build_py
+[0.613s] creating /home/kim/ros2_ws/build/number_game/build
+[0.613s] creating /home/kim/ros2_ws/build/number_game/build/lib
+[0.613s] creating /home/kim/ros2_ws/build/number_game/build/lib/number_game
+[0.613s] copying number_game/random_number_publisher.py -> /home/kim/ros2_ws/build/number_game/build/lib/number_game
+[0.613s] copying number_game/__init__.py -> /home/kim/ros2_ws/build/number_game/build/lib/number_game
+[0.613s] copying number_game/number_guessing_agent.py -> /home/kim/ros2_ws/build/number_game/build/lib/number_game
+[0.614s] running install
+[0.614s] running install_lib
+[0.614s] creating /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game
+[0.614s] copying /home/kim/ros2_ws/build/number_game/build/lib/number_game/random_number_publisher.py -> /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game
+[0.614s] copying /home/kim/ros2_ws/build/number_game/build/lib/number_game/__init__.py -> /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game
+[0.614s] copying /home/kim/ros2_ws/build/number_game/build/lib/number_game/number_guessing_agent.py -> /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game
+[0.614s] byte-compiling /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game/random_number_publisher.py to random_number_publisher.cpython-310.pyc
+[0.614s] byte-compiling /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game/__init__.py to __init__.cpython-310.pyc
+[0.614s] byte-compiling /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game/number_guessing_agent.py to number_guessing_agent.cpython-310.pyc
+[0.615s] running install_data
+[0.615s] creating /home/kim/ros2_ws/install/number_game/share/ament_index
+[0.615s] creating /home/kim/ros2_ws/install/number_game/share/ament_index/resource_index
+[0.615s] creating /home/kim/ros2_ws/install/number_game/share/ament_index/resource_index/packages
+[0.615s] copying resource/number_game -> /home/kim/ros2_ws/install/number_game/share/ament_index/resource_index/packages
+[0.615s] copying package.xml -> /home/kim/ros2_ws/install/number_game/share/number_game
+[0.615s] running install_egg_info
+[0.616s] Copying ../../build/number_game/number_game.egg-info to /home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages/number_game-0.1.0-py3.10.egg-info
+[0.616s] running install_scripts
+[0.629s] Installing number_guessing_agent script to /home/kim/ros2_ws/install/number_game/lib/number_game
+[0.629s] Installing random_number_publisher script to /home/kim/ros2_ws/install/number_game/lib/number_game
+[0.629s] writing list of installed files to '/home/kim/ros2_ws/build/number_game/install.log'
+[0.643s] Invoked command in '/home/kim/ros2_ws/src/number_game' returned '0': PYTHONPATH=/home/kim/ros2_ws/build/number_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kim/ros2_ws/install/number_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/number_game build --build-base /home/kim/ros2_ws/build/number_game/build install --record /home/kim/ros2_ws/build/number_game/install.log --single-version-externally-managed install_data

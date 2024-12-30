@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/updown_game/updown_game.egg-info/PKG-INFO
+writing dependency_links to ../../build/updown_game/updown_game.egg-info/dependency_links.txt
+writing entry points to ../../build/updown_game/updown_game.egg-info/entry_points.txt
+writing requirements to ../../build/updown_game/updown_game.egg-info/requires.txt
+writing top-level names to ../../build/updown_game/updown_game.egg-info/top_level.txt
+reading manifest file '../../build/updown_game/updown_game.egg-info/SOURCES.txt'
+writing manifest file '../../build/updown_game/updown_game.egg-info/SOURCES.txt'
+running build
+running build_py
+copying updown_game/number_provider.py -> /home/kim/ros2_ws/build/updown_game/build/lib/updown_game
+copying updown_game/number_comparator.py -> /home/kim/ros2_ws/build/updown_game/build/lib/updown_game
+copying updown_game/agent.py -> /home/kim/ros2_ws/build/updown_game/build/lib/updown_game
+running install
+running install_lib
+copying /home/kim/ros2_ws/build/updown_game/build/lib/updown_game/number_provider.py -> /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game
+copying /home/kim/ros2_ws/build/updown_game/build/lib/updown_game/number_comparator.py -> /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game
+copying /home/kim/ros2_ws/build/updown_game/build/lib/updown_game/agent.py -> /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game
+byte-compiling /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game/number_provider.py to number_provider.cpython-310.pyc
+byte-compiling /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game/number_comparator.py to number_comparator.cpython-310.pyc
+byte-compiling /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game/agent.py to agent.cpython-310.pyc
+running install_egg_info
+removing '/home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/updown_game/updown_game.egg-info to /home/kim/ros2_ws/install/updown_game/lib/python3.10/site-packages/updown_game-0.0.0-py3.10.egg-info
+running install_scripts
+Installing agent script to /home/kim/ros2_ws/install/updown_game/lib/updown_game
+Installing number_comparator script to /home/kim/ros2_ws/install/updown_game/lib/updown_game
+Installing number_provider script to /home/kim/ros2_ws/install/updown_game/lib/updown_game
+writing list of installed files to '/home/kim/ros2_ws/build/updown_game/install.log'
