@@ -5,4 +5,4 @@
 
 git pull 시도 예제
 
-git pull 시도 완료: 현재 src파일은 오류 해결 중.
+git pull 시도 완료: 현재 src파일은 오류 해결 중. : 해결완료
